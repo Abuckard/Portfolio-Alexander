@@ -3,14 +3,14 @@ import { motion } from 'framer-motion'
 
 const projects = [
     {
-        title: 'Portfolio Website',
-        description: 'Min egen portfolio byggd med React, Vite och Tailwind CSS.',
-        link: 'https://dittprojekt.se',
+        title: 'Buckards Båtar',
+        description: 'Sida för försäljning av belysta båtnamn och andra tjänster. Mycket CSS och TypeScript.',
+        link: 'https://buckard.com',
     },
     {
-        title: 'Todo App',
-        description: 'En enkel att-göra-app med localStorage och React Hooks.',
-        link: 'https://github.com/dittanvandarnamn/todo-app',
+        title: 'Anbrella',
+        description: 'En enkel men stilren sida för en konsultfirma',
+        link: 'https://anbrella.se',
     },
     {
         title: 'Weather Dashboard',
