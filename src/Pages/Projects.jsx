@@ -15,7 +15,7 @@ const projects = [
     {
         title: 'Weather Dashboard',
         description: 'Visar väder i realtid med hjälp av OpenWeather API.',
-        link: 'https://buckard-weather.onrender.com/',
+        link: 'https://buckard-weather.onrender.com',
     },
 ]
 
