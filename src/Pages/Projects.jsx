@@ -10,7 +10,7 @@ const projects = [
     {
         title: 'Anbrella',
         description: 'En enkel men stilren sida för en konsultfirma',
-        link: 'https://anbrella.se',
+        link: 'https://anbrella.onrender.com',
     },
     {
         title: 'Weather Dashboard',
